@@ -2,6 +2,8 @@
 
 ## Welcome to my first project!
 
+### Check out the Live-Demo: https://scifan-san.github.io/e-commerce_template/
+
 What you're looking at is my very first self imposed project. I started working on this template about 2.5 months into the fullstack webdev Udemy course thaty I'm taking (LAMP stack - Linux, Apache, MySQL, PHP/Python).
 
 Much of my inspiration was taken from takealot.com, which is probably the largest South African e-commerce site. I literally crawled through the HTML and style sections of the site to understand a replicate what takealot had acheived. I'm glad to report that I managed to replicate the general layout of a store page (as you'll see in the live demo). 
