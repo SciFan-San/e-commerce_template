@@ -10,5 +10,5 @@ I plan with this template is to iterating on this template as time goes on and I
 
 Since you've taken the time to come and see this site maybe consider bookmarking this page and occasionally checking the changes to the site throught the live demo.
 
-Thank You for Your Time! 
-~Sincerely Michael D. Johnston a.k.a SciFan-San :v:
+Thank You for Your Time!   
+Sincerely Michael D. Johnston a.k.a SciFan-San :v:
