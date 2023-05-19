@@ -118,11 +118,21 @@ main {
     font-size: 15px;
     box-sizing: border-box;
     border-top: 1px solid #e1e1e1;
-    padding: 20px 10px;
+    overflow: hidden;
 }
 
 [class="fil_title"] {
-    margin-bottom: 15px;
+    margin: 10px 20px;
+}
+
+[class="fil_link"] {
+    display: block;
+    width: 100%;
+    padding: 5px 15px;
+}
+
+[class="fil_link"]:hover {
+    background: #D9DDEF;
 }
 
 [class$="filtration_labels"] {
@@ -142,6 +152,7 @@ main {
     margin-top: 15px;
     align-items: center;
     justify-content: space-evenly;
+    margin: 5px 15px;
 }
 
 .price_input span{
@@ -159,6 +170,7 @@ main {
     border-radius: 8px;
     position: relative;
     background: #e1e1e1;
+    margin: 5px 15px;
 }
 
 .progress {
